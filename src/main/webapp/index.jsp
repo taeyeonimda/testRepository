@@ -21,6 +21,10 @@
 	<h4>reset-test1</h4>
 	<h4>reset-test2</h4>
 	<div>먼가 추가추가</div>
+
 	<h1>user2가 추가</h1>
+
+	<h3>user1이 추가한 내용</h3>
+
 </body>
 </html>
