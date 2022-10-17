@@ -9,7 +9,8 @@
 <body>
 	<h1>GIT TestProject</h1>
 	<p>내용 또 추가</p>
-	<a href="/views/test01.jsp">페이지이동</a>
+	<a href ="/views/test01.jsp">페이지이동</a>
 	<a href ="/views/test02.jsp">페이지이동22</a>
+	<p>추가추가
 </body>
 </html>

@@ -10,7 +10,7 @@
 	<h1>test02 페이지 제작중</h1>
 	<hr>
 	<ul>
-		<li>test02 중간저장</li>
+		<li>test02 중간저장 </li>
 	</ul>
 </body>
 </html>
